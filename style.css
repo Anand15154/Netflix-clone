@@ -309,7 +309,7 @@ label::after{
 }
 
 }
-@media only screen and (max-width: 350px){
+@media only screen and (max-width: 400px){
     .header{
         padding-bottom: 40vh;
     }
